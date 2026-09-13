@@ -46,7 +46,7 @@ I'm **Amin** — a developer interested in **software development** and **web de
 
 ## 📚 What I'm Learning
 
-- [ ] Modern and advanced javaScrpt
+- [ ] Modern and advanced javaScript
 - [ ] linux
 
 ## 📊 GitHub Stats
