@@ -63,7 +63,7 @@ I'm **Amin** — a developer interested in **software development** and **web de
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/theaminam)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsaminak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=google-chrome&logoColor=white)](https://theaminam.github.io/My-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:theaminak@gmail.com)
 
 </div>
